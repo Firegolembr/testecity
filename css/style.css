@@ -1,0 +1,109 @@
+header {
+    background-image: url(../images/topo.png);
+    width: 1920px;
+    height: 200px;
+    position: fixed;
+    bottom: 78%;
+    background-size: cover;
+    
+}
+.instagram{
+    list-style-image: url(../images/instagram.png);
+    margin-left: 57%;
+}
+.facebook{
+    list-style-image: url(../images/facebook.png);
+    margin-left: 57%;
+}
+.whatsapp{
+    list-style-image: url(../images/whatsapp.png);
+    margin-left: 57%;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+table {
+    color: white;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+    left: 20%;
+}
+
+.menu {
+    padding: 15px;
+    position: relative;
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(../images/fundo.jpg);
+    background-size: cover;
+    background-position: fixed;
+}
+
+.titles {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#i1 {
+    float: left;
+    padding: 10px;
+    border-style: double;
+}
+
+#p1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-style: italic;
+    padding: 10px;
+}
+
+#div2 {
+    overflow: auto;
+}
+
+#div3 {
+    margin-left: 10%;
+    overflow: auto;
+}
+
+#div4 {
+    margin-left: 20%;
+    overflow: auto;
+}
+
+#div5 {
+    max-width: 230px;
+    background-color: #FFFFFFFF;
+    margin-left: 45%;
+    padding: 10px;
+}
+
+#cnpj {
+    position: relative;
+    bottom: 0%;
+    left: 30%;
+    color: white;
+}
+
+#rodape {
+    position: fixed;
+    bottom: 0%;
+    text-align: center;
+}
+
+
+
+footer {
+    background-image: url(../images/rodape.png);
+    width: 1920px;
+    height: 70px;
+    position: relative;
+    bottom: 0%;
+}
